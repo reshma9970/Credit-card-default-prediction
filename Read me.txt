@@ -1,0 +1,19 @@
+
+OPEN Terminal ctrl + shift + ~
+
+1. conda create -n myenv python=3.8 -y
+
+2. conda activate myenv
+
+3. create a requirements.txt file
+
+4. add required packages
+
+5. pip install -r requirements.txt
+
+5. create a predict.py file.
+
+6. prepare the codes
+
+6. streamlit run predict.py
+

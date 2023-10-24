@@ -1,0 +1,6 @@
+numpy
+pandas
+streamlit
+scikit-learn
+dill
+altair==4.0.0
